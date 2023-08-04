@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.Login {
+  background-color: #fff;
+  width: 100%;
+  max-width: 500px;
+  min-height: 500px;
+  margin: 0 auto;
+  color: #fff;
+  font-size: 14px;
+  border: 1px solid #ccc;
+}
+.Login h1 {
+  font-size: 18px;
+  color: #000;
+}
+.Login button {
+  display: block;
+  outline: none;
+  width: 150px;
+  height: 30px;
+  border-radius: 8px;
+  margin: 0 auto;
+  background-color: transparent;
+  border: 1px solid #000;
+  margin-top: 20px;
+}
+.Login input {
+  font-size: 14px;
+  color: #000;
+  margin-top: 10px;
+}
